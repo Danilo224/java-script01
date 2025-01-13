@@ -20,7 +20,7 @@ function contar() {
                  // contagem crescente
             for(var c = i; c <= f; c += p) {
                 res.innerHTML += `${c} \u{1F60E} `  
-            }1
+            }
         } else {
                  //contagem regressiva
             for( var c = i; c >= f; c -= p) {
