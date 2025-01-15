@@ -19,9 +19,10 @@ section {
 
 }
 
-div{
-    padding: 8px;
+select#flista {
+    width: 150px;
 }
+
 
 footer {
      color: white;
